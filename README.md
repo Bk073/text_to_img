@@ -25,6 +25,10 @@ The publicly available datasets used in this project are the Oxford-102 dataset 
 - dcgan_generate.py - file for inference
 - dcgan_train.py - to train the model
 
+## Results
+
+![Screenshot from 2021-11-13 10-44-16](https://user-images.githubusercontent.com/21074651/141606279-1a7a91a3-0bce-40fe-b90c-5d695416f526.png)
+
 ## References
 - [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396)
 - [Generative Adversarial Model](https://arxiv.org/abs/1406.2661)
